@@ -1,0 +1,19 @@
+{
+  "name": "ffmap-d3",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ffnord/ffmap-d3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.11",
+    "leaflet": "~0.7.3",
+    "bacon": "~0.7.22",
+    "jquery.tablesorter": "~2.17.7",
+    "requirejs": "~2.1.15"
+  }
+}
